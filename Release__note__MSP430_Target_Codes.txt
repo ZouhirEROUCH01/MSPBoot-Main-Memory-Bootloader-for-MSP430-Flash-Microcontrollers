@@ -1,0 +1,12 @@
+The Target MSP430F5529LP codes on CCS_v8 :
+
+I-  Upload and Debug the MSPBoot code into the Target Board   
+
+II-  Modifying the Application project to work as an UART loopback 
+
+III- Building the application image as .txt code, ready to be converted  
+
+
+By EROUCH Zouhir
+
+21/03/2019
