@@ -1,0 +1,12 @@
+The Host MSP430F5529LP codes on CCS_v8 :
+
+I-  Upload the .c image conveted by the "image2C.pl" file into the MSPBoot host project   
+
+II-  Updating the host code to work for one specified application 
+
+III- Building and Debugging the host code to transfer the Application image
+
+
+By EROUCH Zouhir
+
+21/03/2019
